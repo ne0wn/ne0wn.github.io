@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: ne0wn
+title: ne0wn - explo ( r || it ) ing
 
 # Short description of your site
 description: Let me introduce you to my geek side!
@@ -36,7 +36,6 @@ navbar-links:
     - Mobile Application: "pentesting"
     - Phishing: "pentesting"
     - Thick Client: "pentesting"    
-  Pentesting by Port: "pentesting"
   Hack The Box: 
     - Writeup 1: "hackthebox"
     - Writeup 2: "hackthebox"
