@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: explo ( r || it ) ing
+title: ne0wn
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -24,8 +24,12 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "openlearning"
-  Projects: "projects"
+  Hack The Box: "hackthebox"
+  Bug Bounties: "bugbounties"
+  Pentesting: "pentesting"
+  
+
+  
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
