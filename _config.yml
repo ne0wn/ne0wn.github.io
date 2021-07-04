@@ -33,7 +33,12 @@ navbar-links:
     - External Network: "pentesting"
     - Internal Network: "pentesting"
     - Web Application: "pentesting"
-    - By Port: "pentesting"
+    - Mobile Application: "pentesting"
+  Pentesting by Port:
+    - 21 - FTP: "pentesting"
+    - 22 - SSH: "pentesting"
+    - 23 - Telnet: "pentesting"
+    - 25 - SMTP: "pentesting"
   Hack The Box: "hackthebox"
   Bug Bounties: "bugbounties"
 
