@@ -30,13 +30,12 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Pentesting:
-    - External Network: "http://ieeexplore.ieee.org/document/7918794/"
-    - Internal Network: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - Web Application: "https://www.researchgate.net/profile/Anudit_Verma"
-    - By Port:
-      - 21 - FTP: "aboutme"
-  Hack The Box: "aboutme"
-  Bug Bounties: "aboutme"
+    - External Network: "pentesting"
+    - Internal Network: "pentesting"
+    - Web Application: "pentesting"
+    - By Port: "pentesting"
+  Hack The Box: "hackthebox"
+  Bug Bounties: "bugbounties"
 
 #  Tags: "tags"
 
