@@ -27,6 +27,17 @@ navbar-links:
   Hack The Box: "hackthebox"
   Bug Bounties: "bugbounties"
   Pentesting: "pentesting"
+    - By Port: 
+      - 21 - FTP:
+      - 22 - SSH:
+    - External Network: 
+    - Internal Network: 
+    - Web Application:
+    - Mobile Application:
+    - Cloud Security:
+    - Physical Security:
+    - Exploit Development:
+ 
   
 
   
