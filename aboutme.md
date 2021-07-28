@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+subtitle: "Stand for something or fall for anything."
 ---
 
 <div id="aboutme-section">
@@ -16,10 +16,6 @@ ne0wn is a Senior Penetration Tester and Red Team Lead with more than 7 years of
 As an active member of the midwests longest-running monthly security meetup, ne0wn often delivers rigorous reports to executives employed by several Fortune 300 companies and leads talks to better inform local cyber security professionals in the group.
 </p>
 
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I am a seasoned Ethical Hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
-</p>
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
