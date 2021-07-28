@@ -28,32 +28,14 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Pentesting:
-    - External Network: "pentesting"
-    - Internal Network: "pentesting"
-    - Web Application: "pentesting"
-    - Mobile Application: "pentesting"
-    - Phishing: "pentesting"
-    - Thick Client: "pentesting"    
+  About Me: "aboutme"  
   Hack The Box: 
     - Writeup 1: "hackthebox"
     - Writeup 2: "hackthebox"
-    - Writeup 3: "hackthebox"
-    - Writeup 4: "hackthebox"
-    - Writeup 5: "hackthebox"
-    - Writeup 6: "hackthebox"
-    - Writeup 7: "hackthebox"
-    - Writeup 8: "hackthebox"
   Bug Bounties: 
     - Writeup 1: "bugbounties"
     - Writeup 2: "bugbounties"
-    - Writeup 3: "bugbounties"
-    - Writeup 4: "bugbounties"
-    - Writeup 5: "hackthebox"
-    - Writeup 6: "hackthebox"
-    - Writeup 7: "hackthebox"
-    - Writeup 8: "hackthebox"
+    -
 
 #  Tags: "tags"
 
